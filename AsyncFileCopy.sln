@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 13.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncFileCopy", "AsyncFileCopy\AsyncFileCopy.csproj", "{D5A66ACF-83CC-4AEB-A6A1-AF765DD0E218}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5A66ACF-83CC-4AEB-A6A1-AF765DD0E218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5A66ACF-83CC-4AEB-A6A1-AF765DD0E218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5A66ACF-83CC-4AEB-A6A1-AF765DD0E218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5A66ACF-83CC-4AEB-A6A1-AF765DD0E218}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
